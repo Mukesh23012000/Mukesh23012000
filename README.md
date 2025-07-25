@@ -41,10 +41,10 @@ A JavaScript utility to prevent access to browser dev tools (F12, Ctrl+U, right-
 
 ### 📬 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mukesh2301200)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mukesh23012000)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github)](https://github.com/Mukesh23012000)  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:mukeshkannan2301@gmail.com)
-
+[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?&logo=npm&logoColor=white)](https://www.npmjs.com/~kannanmukesh)
 ---
 
 > “Code is not just about logic; it's about **impact**.” – Mukesh
