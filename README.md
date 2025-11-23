@@ -7,8 +7,7 @@
 
 ## 🧠 About Me
 
-I'm a full-stack engineer with **3 years of experience** building scalable and secure web applications.  
-Currently at **Photon**, I work on high-performance APIs and frontend systems using **Next.js, Fastify, MongoDB, and TypeScript**.
+I'm a full-stack engineer with **3 years of experience** building scalable and secure web applications. I work on high-performance APIs and frontend systems using **Next.js, Fastify, MongoDB, and TypeScript**.
 
 Previously at **Novac**, I delivered fintech solutions that:
 
