@@ -1,69 +1,102 @@
-# 👋 Hi, I'm Mukesh Kannan
+<h1 align="center">Hi there, I'm Mukesh Kannan 👋</h1>
 
-🚀 **Full-Stack Developer** — React.js | Next.js | Node.js | TypeScript  
-🌍 Chennai, India • 📧 mukeshkannan2301@gmail.com  
+<p align="center">
+ Full-Stack Developer &nbsp;|&nbsp; React · Next.js · Node.js · TypeScript &nbsp;|&nbsp; Chennai, India
+</p>
 
----
-
-## 🧠 About Me
-
-I'm a full-stack engineer with **3 years of experience** building scalable and secure web applications. I work on high-performance APIs and frontend systems using **Next.js, Fastify, MongoDB, and TypeScript**.
-
-I began my career in QA & security testing, giving me an edge in building **bug-free, secure, and production-ready systems**.
-
----
-
-## 🔧 Tech Stack
-
-**Frontend:**  
-React.js, Next.js, TypeScript, Zustand, Redux, Tailwind CSS, Material UI  
-
-**Backend:**  
-Node.js, Fastify, Express.js, MongoDB, MySQL, Redis  
-
-**Tools & Other:**  
-Git, NGINX, RabbitMQ, Jest, Burp Suite (Security), CI/CD
+<p align="center">
+ <a href="https://www.linkedin.com/in/mukesh23012000"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+ <a href="https://www.npmjs.com/~kannanmukesh"><img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM"/></a>&nbsp;
+ <a href="mailto:mukeshkannan2301@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-## 📦 Featured Projects
+## About Me
 
-### 🚀 React Validator Dev – NPM Package  
-Reusable form validation library for React apps — **800+ downloads**  
-🔗 https://www.npmjs.com/package/react-validator-dev
+I'm a full-stack engineer with **3 years of professional experience** building production-grade web applications. My background started in QA and security testing, which shaped how I think about reliability, edge cases, and secure-by-default design.
 
----
+Currently focused on high-performance APIs and complex frontend systems using **Next.js, Fastify, TypeScript, and MongoDB**.
 
-### 🧪 Service M – API Testing Web App  
-A lightweight, Postman-like API testing tool built with **Next.js App Router + Zustand**  
-🔗 Live: https://service-m.vercel.app/  
-🔗 Code: https://github.com/Mukesh23012000/ServiceM
+- 🏢 Previously at **Photon** — worked on enterprise-scale frontend and backend systems
+- 📦 Published an open-source npm package with **800+ downloads**
+- 🔐 Security-aware development background (Burp Suite, vulnerability assessment)
+- 🎓 B.E. Electrical & Electronics Engineering
 
 ---
 
-### 🔐 Block Browser Dev Tools  
-JavaScript utility to prevent access to browser developer tools.  
-🔗 https://github.com/Mukesh23012000/block-browser-dev-tools
+## Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Tools & Infrastructure**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
 
 ---
 
-## 🏆 Highlights & Achievements
+## Featured Projects
 
-- Built **15+ production APIs** at Photon with improved response time by **30%**  
-- Integrated **FusionAuth**, reducing authentication issues by **40%**  
-- Designed a custom logging system that reduced Firebase usage by **90%**  
-- Architected a **Rule Engine (React + TS)** that reduced manual work by **90%**  
-- Identified & fixed major vulnerabilities using **Burp Suite**
+### [`react-validator-dev`](https://www.npmjs.com/package/react-validator-dev) — NPM Package
+Reusable form validation library for React applications. Handles complex validation rules with a clean, composable API.  
+![Downloads](https://img.shields.io/npm/dt/react-validator-dev?style=flat&color=CB3837&logo=npm)
 
 ---
 
-## 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mukesh23012000)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github)](https://github.com/Mukesh23012000)  
-[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white)](https://www.npmjs.com/~kannanmukesh)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:mukeshkannan2301@gmail.com)
+### [Service M](https://service-m.vercel.app/) — API Testing Tool · [Source](https://github.com/Mukesh23012000/ServiceM)
+A lightweight, browser-based API testing client built with Next.js App Router and Zustand. Designed as a minimal, self-hostable alternative to Postman for quick API debugging.
 
 ---
 
-✨ _“I build systems that are fast, secure, and make a real impact.”_
+### [block-browser-dev-tools](https://github.com/Mukesh23012000/block-browser-dev-tools)
+JavaScript utility to detect and block access to browser developer tools — useful for protecting client-side rendering logic in sensitive applications.
+
+---
+
+## Impact at Work
+
+| What I built | Outcome |
+|---|---|
+| 15+ production REST APIs (Photon) | ~30% improvement in average response time |
+| FusionAuth SSO integration | ~40% reduction in authentication-related support issues |
+| Custom structured logging system | ~90% reduction in Firebase logging costs |
+| Rule Engine — React + TypeScript | ~90% reduction in manual configuration effort |
+| Security audit via Burp Suite | Identified and patched critical vulnerabilities pre-release |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Mukesh23012000&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
+ &nbsp;
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukesh23012000&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+</p>
+
+---
+
+## Connect With Me
+
+- 💼 [linkedin.com/in/mukesh23012000](https://www.linkedin.com/in/mukesh23012000)
+- 📦 [npmjs.com/~kannanmukesh](https://www.npmjs.com/~kannanmukesh)
+- 📧 mukeshkannan2301@gmail.com
