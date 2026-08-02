@@ -14,11 +14,12 @@
 
 ## About Me
 
-I'm a full-stack engineer with **3 years of professional experience** building production-grade web applications. My background started in QA and security testing, which shaped how I think about reliability, edge cases, and secure-by-default design.
+I'm a full-stack engineer with **3.8+ years of professional experience** building production-grade web applications. My background started in QA and security testing, which shaped how I think about reliability, edge cases, and secure-by-default design.
 
-Currently focused on high-performance APIs and complex frontend systems using **Next.js, Fastify, TypeScript, and MongoDB**.
+Currently a **Senior Software Engineer at Expleo**, working on the Star Health Insurance client project with Next.js, Strapi, and Astro.
 
-- 🏢 Previously at **Photon** — worked on enterprise-scale frontend and backend systems
+- 🏢 Currently at **Expleo** — Senior Software Engineer on an insurance-industry client project
+- 🏢 Previously at **Photon Interactive** — Software Engineer II, enterprise-scale frontend and backend systems
 - 📦 Published an open-source npm package with **800+ downloads**
 - 🔐 Security-aware development background (Burp Suite, vulnerability assessment)
 - 🎓 B.E. Electrical & Electronics Engineering
@@ -56,6 +57,11 @@ Currently focused on high-performance APIs and complex frontend systems using **
 ---
 
 ## Featured Projects
+
+### [AI Workspace](https://aiworkspace-five.vercel.app/) — AI Productivity Suite · [Source](https://github.com/Mukesh23012000/ai-workspace)
+A modern AI-powered productivity platform built with Next.js 16, TypeScript, and Tailwind CSS. Bundles a prompt optimizer, grammar checker, email formatter, and content rewriter into one workspace, with Google OAuth, MongoDB-backed usage tracking, and a Zustand store.
+
+---
 
 ### [`react-validator-dev`](https://www.npmjs.com/package/react-validator-dev) — NPM Package
 Reusable form validation library for React applications. Handles complex validation rules with a clean, composable API.  
